@@ -7,5 +7,9 @@ namespace EmployeeAdminPortal.Controllers
     [ApiController]
     public class EmployeesController : ControllerBase
     {
+        public EmployeesController()
+        {
+            
+        }
     }
 }
